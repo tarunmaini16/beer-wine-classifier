@@ -1,7 +1,7 @@
 #🥃 🍾 🍻 🥂 🍺 🍷 🥃 🍾 🍻 🥂 🍺 🍷🍷🍷🍷 🥃 🍾 🍻 🥂 🍺 🍷 🥃 🍾 🍻 🥂
 
-# 🍺🍷 Beer Vs. Wine 🍺🍷
-# 🍺🍷 Classification based on Alcoholic Content & Color 🍺🍷
+# Beer Vs. Wine
+# Classification based on Alcoholic Content & Color
 
 from sklearn import tree
 #features = [[4,"amber"], [5,"amber"], [10,"red"], [11.5,"red"]]
