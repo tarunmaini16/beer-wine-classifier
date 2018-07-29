@@ -16,7 +16,7 @@ Following command need to be run to play this repo code.
 * **Sci-py :**  `$ pip install scipy`
 ##
   
-##### Complete code image is also available at docker hub at below url:
-**>** **https://hub.docker.com/r/tarunmaini/wine-beer-classification/**
+##### Get complete code environment in docker image:
+**>** **docker pull tarunmaini/wine-beer-classification**
 
 
